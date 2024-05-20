@@ -20,12 +20,8 @@ Welcome to my GitHub profile! I'm a junior Full Stack Web Developer. Here you'll
 
 ## 📌 Featured Projects
 
-- [BoolBnb-Back Office](https://github.com/mariocstweb/Boolbnb-team-5): Brief description of the project.
-- [BoolBnb-Front](https://github.com/mariocstweb/vue-boolbnb): Brief description of the project.
+- [BoolBnb-Back Office](https://github.com/mariocstweb/Boolbnb-team-5)
+- [BoolBnb-Front](https://github.com/mariocstweb/vue-boolbnb)
 
-## 📝 Recent Blog Posts
-
-- [Article 1](https://www.your-site.com/article1): Brief description of the article.
-- [Article 2](https://www.your-site.com/article2): Brief description of the article.
-
+- 
 Thanks for visiting! Feel free to explore my projects and reach out for any collaborations.
