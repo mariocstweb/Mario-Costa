@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a junior Full Stack Web Developer. Here you'll
 
 ## 🌐 Connections
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mario-costa-206709303/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-costa-206709303/)
 
 ## 🔧 Technologies & Tools
 
